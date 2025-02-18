@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Graph_by-Striver.iml" filepath="$PROJECT_DIR$/Graph_by-Striver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems_on_dfs_bfs/problems_on_dfs_bfs.iml" filepath="$PROJECT_DIR$/problems_on_dfs_bfs/problems_on_dfs_bfs.iml" />
     </modules>
   </component>
 </project>
